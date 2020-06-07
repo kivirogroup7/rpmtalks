@@ -44,7 +44,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `RPMTALKSr`,
+        name: `RPMTALKS`,
         short_name: `RPMTALKS`,
         start_url: `/`,
         background_color: `#fff`,
