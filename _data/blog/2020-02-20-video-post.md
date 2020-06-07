@@ -10,13 +10,15 @@ metaDescription: >-
   bucks? Let’s go over them and find out!
 thumbnail: /assets/sclass_7series_a8_01.jpg
 ---
-<!--\[if gte mso 9]><xml>
+![](/assets/a8-triple-test-2020.jpg)
+
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -55,9 +57,9 @@ thumbnail: /assets/sclass_7series_a8_01.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -636,9 +638,9 @@ thumbnail: /assets/sclass_7series_a8_01.jpg
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -665,29 +667,27 @@ thumbnail: /assets/sclass_7series_a8_01.jpg
 	mso-bidi-theme-font:minor-bidi;
 	mso-ansi-language:EN-SG;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
 DESIGN
 
-
-
 *General Exteriors:*
-
-
 
 All three Germans sport different design languages on the exterior. The Audi goes for a bland, nondescript design that, quite honestly looks slabby on the sides? But on the front end, it has quite some persona with the gaping grill, the sleek headlamps with Audi’s fascinating tech. The rear is pretty similar to its younger siblings apart from the longer, sleeker taillights with a wider footprint. The BMW has a completely different approach, where they’ve made the car look aggressive and dominant with a sheer road presence over elegance or luxurious. With a redesigned headlamp styling, the MASSIVE grille and jagged air vents and bumper splitters, the car does get the road presence and aggressive looks. The S-Class has a more distinct elegant and straightforward design. With smooth flow-y curves, detailed proportions and no sporty elements, this one screams elegance.
 
+![](/assets/Collage 2020-06-07 16_13_42.jpg)
+
 <!--EndFragment-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -726,9 +726,9 @@ All three Germans sport different design languages on the exterior. The Audi goe
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -1307,9 +1307,9 @@ All three Germans sport different design languages on the exterior. The Audi goe
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -1336,17 +1336,17 @@ All three Germans sport different design languages on the exterior. The Audi goe
 	mso-bidi-theme-font:minor-bidi;
 	mso-ansi-language:EN-SG;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -1385,9 +1385,9 @@ All three Germans sport different design languages on the exterior. The Audi goe
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -1966,9 +1966,9 @@ All three Germans sport different design languages on the exterior. The Audi goe
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -1995,7 +1995,7 @@ All three Germans sport different design languages on the exterior. The Audi goe
 	mso-bidi-theme-font:minor-bidi;
 	mso-ansi-language:EN-SG;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -2005,15 +2005,21 @@ All three Germans sport different design languages on the exterior. The Audi goe
 
 This is where things get a little complicated and taste-accentuated. The Audi has a more ‘black’ vibe to it with the piano black interiors and upholstery. The Virtual Cockpit system gives BMW a run for its worth. The Quality is up-to-the-mark and the center console is now 2 touchscreens instead of the traditional dials and buttons. This may be a distraction for some, but, who’s gonna be driving these! The 7 series has its excellent iDrive system and a plain-ish yet luxurious styling sense in the front. The gear selector, knobs and materials feel expensive and soft to the touch. The S-Class gets the classiest, most sophisticated interior here with unparalleled luxe, although, the MBUX infotainment system has to be the worst between these 3.
 
+![](/assets/Screenshot_2020-06-06 New Audi A8 Review.jpg)
+
+![](/assets/Screenshot_2020-06-06 New BMW 7 Series Review(1).jpg)
+
+![](/assets/Screenshot_2020-06-06 New Mercedes S-Class Saloon Review(1).jpg)
+
 <!--EndFragment-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -2052,9 +2058,9 @@ This is where things get a little complicated and taste-accentuated. The Audi ha
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -2633,9 +2639,9 @@ This is where things get a little complicated and taste-accentuated. The Audi ha
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -2662,7 +2668,7 @@ This is where things get a little complicated and taste-accentuated. The Audi ha
 	mso-bidi-theme-font:minor-bidi;
 	mso-ansi-language:EN-SG;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -2670,15 +2676,21 @@ This is where things get a little complicated and taste-accentuated. The Audi ha
 
 Of course, you would be spending a majority of your time in the back rather than up front. All 3 have an amazing set of rear seats and features, although, the S-Class adds an unparalleled sense of luxury and richness with their seats, lighting and overall design, although it doesn’t get heated rear seats as standard. The Audi has a chunked out middle seat replaced by the rear infotainment system which looks incredible. The 7 series lacks the permanent rear infotainment control and is accessible via the movable armrest, but, it offers a third seat, if that’s what youre looking for.
 
+![](/assets/Screenshot_2020-06-06 New Audi A8 Review.png)
+
+![](/assets/Screenshot_2020-06-06 New BMW 7 Series Review.jpg)
+
+![](/assets/Screenshot_2020-06-06 New Mercedes S-Class Saloon Review.jpg)
+
 <!--EndFragment-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -2717,9 +2729,9 @@ Of course, you would be spending a majority of your time in the back rather than
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -3298,9 +3310,9 @@ Of course, you would be spending a majority of your time in the back rather than
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -3327,7 +3339,7 @@ Of course, you would be spending a majority of your time in the back rather than
 	mso-bidi-theme-font:minor-bidi;
 	mso-ansi-language:EN-SG;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
