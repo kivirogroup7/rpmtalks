@@ -15,7 +15,7 @@ const notFound = () => {
           height="256"
           viewBox="0 0 24 24"
           fill="none"
-          xmlns="http://www.w3.org/2000/svg"
+          xmlns="http://www.rpmtalks.com"
         >
           <path d="M14.1254 13H10.1254V15H14.1254V13Z" fill="currentColor" />
           <path
