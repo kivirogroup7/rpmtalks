@@ -10,15 +10,23 @@ metaDescription: >-
   bucks? Let’s go over them and find out!
 thumbnail: /assets/sclass_7series_a8_01.jpg
 ---
+
+
+Article by: Arnav Kulkarni
+
 ![](/assets/a8-triple-test-2020.jpg)
 
-<!--\\[if gte mso 9]><xml>
+The BMW 7 series, Audi A8 and the Mercedes-Benz S-Class have been the German‘s most prized flagships since decades. All offering quite some luxury, comfort and features for a hefty price. But which one offers the best bang for your bucks? Let’s go over them and find out!
+
+
+
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -57,9 +65,9 @@ thumbnail: /assets/sclass_7series_a8_01.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -638,9 +646,9 @@ thumbnail: /assets/sclass_7series_a8_01.jpg
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -667,7 +675,7 @@ thumbnail: /assets/sclass_7series_a8_01.jpg
 	mso-bidi-theme-font:minor-bidi;
 	mso-ansi-language:EN-SG;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -681,13 +689,13 @@ All three Germans sport different design languages on the exterior. The Audi goe
 
 <!--EndFragment-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -726,9 +734,9 @@ All three Germans sport different design languages on the exterior. The Audi goe
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -1307,9 +1315,9 @@ All three Germans sport different design languages on the exterior. The Audi goe
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -1336,17 +1344,17 @@ All three Germans sport different design languages on the exterior. The Audi goe
 	mso-bidi-theme-font:minor-bidi;
 	mso-ansi-language:EN-SG;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -1385,9 +1393,9 @@ All three Germans sport different design languages on the exterior. The Audi goe
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -1966,9 +1974,9 @@ All three Germans sport different design languages on the exterior. The Audi goe
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -1995,7 +2003,7 @@ All three Germans sport different design languages on the exterior. The Audi goe
 	mso-bidi-theme-font:minor-bidi;
 	mso-ansi-language:EN-SG;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -2013,13 +2021,13 @@ This is where things get a little complicated and taste-accentuated. The Audi ha
 
 <!--EndFragment-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -2058,9 +2066,9 @@ This is where things get a little complicated and taste-accentuated. The Audi ha
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -2639,9 +2647,9 @@ This is where things get a little complicated and taste-accentuated. The Audi ha
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -2668,7 +2676,7 @@ This is where things get a little complicated and taste-accentuated. The Audi ha
 	mso-bidi-theme-font:minor-bidi;
 	mso-ansi-language:EN-SG;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -2684,13 +2692,13 @@ Of course, you would be spending a majority of your time in the back rather than
 
 <!--EndFragment-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -2729,9 +2737,9 @@ Of course, you would be spending a majority of your time in the back rather than
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -3310,9 +3318,9 @@ Of course, you would be spending a majority of your time in the back rather than
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -3339,7 +3347,7 @@ Of course, you would be spending a majority of your time in the back rather than
 	mso-bidi-theme-font:minor-bidi;
 	mso-ansi-language:EN-SG;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
