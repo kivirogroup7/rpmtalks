@@ -25,7 +25,8 @@ export default ({ children }) => {
       </header>
       {children}
       <footer className="site-footer">
-    <p> Instagram - <a herf="https://instagram.com/rpmtalks">@rpmtalks</a></p>
+     <p>Instagram - <a href="https://www.instagram.com/rpmtalks">@rpmtalks</a></p>
+     <p>Twitter - <a href="https://www.twitter.com/rpmtalks">@rpmtalks</a></p>
         <p>&copy; {new Date().getFullYear()} RPMTALKS &bull; Crafted with <span role="img" aria-label="love">❤️</span> by <a href="https://kiviro.xyz">Kiviro</a></p>
        
       </footer>
