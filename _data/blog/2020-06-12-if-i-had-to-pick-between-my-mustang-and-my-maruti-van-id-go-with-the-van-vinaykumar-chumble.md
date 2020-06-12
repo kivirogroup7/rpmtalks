@@ -49,7 +49,7 @@ Average Person, Average Car. Maruti Van. If i had an option between my Mustang a
 \
 **What do you think about EVs?**\
 \
-Ahh Difficult question yr. We are Petrolheads, I'd rather not answer it.\
+Ahh Difficult question yaar. We are Petrolheads, I'd rather not answer it.\
 \
 **What is your dream 3 car garage?**
 
@@ -111,14 +111,14 @@ If it's about a sportscar then a new one is always better, because there are ton
 \
 That car was my father's brand new car, I have seen India in it. I learnt my driving on that car. Then this was not in use for 5-8 years. It was just sitting in a corner, and i found the engine. My father had actually replaced the engine when the car had done 5,50,500 KMs. He had replaced the new Maruti Omni engine in it, so that the van can drive more. It clocked about 2,75,000 KMs on the new engine.
 
-Then found this old engine lying in the corner, so i decided to get it restored, "The Japanese Engine" Then removed the Indian engine and put the new restored Japanese engine in it, had to import some part form japan. So i have lots of emotion and memories. I park in next to my bedroom window so whenever i wake up in the night i get to see it late in the night.
+Then found this old engine lying in the corner, so i decided to get it restored, "The Japanese Engine" Then removed the Indian engine and put the new restored Japanese engine in it, had to import some part form japan. So i have lots of emotion and memories. I park in next to my bedroom window so whenever i wake up in the night i get to see it.
 
 ![](/assets/111.jpeg)
 
 \
 **Lastly what's you message to the younger generation?**\
 \
-Study Hard , Prepare for life, you have to have not 1 or 2 but minimum 4 degrees, 2-3 diplomas, you should know what the world wants from you, then only you can make them work for yourself. If you take my example, I've done B-com and what i'm doing is an engineering job. I have 3 post graduation degrees, if i wouldn't have done that, then i might not be able to cope up. HR taught how to get work done from people, Marketing taught me how to sell anything and managing money from my finance degree. It took 5 years for me to complete my post graduation with 3 degree then i did detailed diploma is LAW and taxation and ADSE (Advance diploma in software engineering). So I always tell everyone to complete there education first, after that you have you entire life to buy cars.
+Study Hard , Prepare for life, you have to have not 1 or 2 but minimum 4 degrees, 2-3 diplomas, you should know what the world wants from you, then only you can make them work for yourself. If you take my example, I've done B-Com and what i'm doing is an engineering job. I have 3 post graduation degrees, if i wouldn't have done that, then i might not be able to cope up. HR taught how to get work done from people, Marketing taught me how to sell anything and managing money from my finance degree. It took 5 years for me to complete my post graduation with 3 degrees then i did detailed diploma in LAW and taxation and then in ADSE (Advance diploma in software engineering). So I always tell everyone to complete there education first, after that you have you entire life to buy cars.
 
 ![](/assets/WhatsApp Image 2020-06-12 at 11.37.01 AM.jpeg)
 
