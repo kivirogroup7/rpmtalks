@@ -35,7 +35,7 @@ Figures of-course, looks can be changed any time.\
 \
 **How is it like to live with a Mustang in Nashik?**\
 \
-It feels great, you are talk of the town, everybody whats to take pictures. Boys and girls are following me every time i take the car out till me office and home, take videos. I get to see my car on Youtube, just a search on Youtube "Mustang Nashik" and you get videos with thousands of views. Whenever i'm driving the car on the road I get calls saying " I heard your car pass by! " Initially when i use to drive the BMW, people use to see the car and call me. Now they hear the car and call me! Other then that there are school kids who are waiting for me in there windows to see the car because when ever i go to the office i pass, i have a specific time. So there are boys who waiting for 15-20 mins just to see the car, It's fun.
+It feels great, you are talk of the town, everybody wants to take pictures. Boys and girls are following me every time i take the car out till me office and home, take videos. I get to see my car on Youtube, just a search on Youtube "Mustang Nashik" and you get videos with thousands of views. Whenever i'm driving the car on the road I get calls saying " I heard your car pass by! " Initially when i use to drive the BMW, people use to see the car and call me. Now they hear the car and call me! Other then that there are school kids who are waiting for me in there windows to see the car because when ever i go to the office i pass, i have a specific time. So there are boys who waiting for 15-20 mins just to see the car, It's fun.
 
 ![](/assets/66137901_2308214522591819_4768150008328689040_n.jpg)
 
