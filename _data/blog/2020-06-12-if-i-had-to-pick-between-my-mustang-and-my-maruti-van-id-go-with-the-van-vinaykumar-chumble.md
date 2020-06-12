@@ -85,7 +85,7 @@ and Many more...
 
 ![](/assets/WhatsApp Image 2020-06-10 at 9.10.54 PM.jpeg)
 
-![](/assets/WhatsApp Image 2020-06-12 at 10.43.47 AM (5).jpeg)
+![](/assets/hdh.jpeg)
 
 ![](/assets/DSC_3737.jpg)
 
@@ -106,8 +106,6 @@ Buying a new car you certainly loss lot of money. Buying a used car is again an 
 \
 If it's about a sportscar then a new one is always better, because there are tons of electronics in the car, and you know electronic cars don't last long. The collection of cars that i have are all mechanical cars, so have got good live. But since the last 20 years the automobile industry is behind electronic cars and they want to scrap the car in 15 years. So buying an electronic car new is always better because you have the warranty.
 
-
-
 ![](/assets/111.jpeg)
 
 \
@@ -123,8 +121,6 @@ Then found this old engine lying in the corner, so i decided to get it restored,
 Study Hard , Prepare for life, you have to have not 1 or 2 but minimum 4 degrees, 2-3 diplomas, you should know what the world wants from you, then only you can make them work for yourself. If you take my example, I've done B-com and what i'm doing is an engineering job. I have 3 post graduation degrees, if i wouldn't have done that, then i might not be able to cope up. HR taught how to get work done from people, Marketing taught me how to sell anything and managing money from my finance degree. It took 5 years for me to complete my post graduation with 3 degree then i did detailed diploma is LAW and taxation and ADSE (Advance diploma in software engineering). So I always tell everyone to complete there education first, after that you have you entire life to buy cars.
 
 ![](/assets/WhatsApp Image 2020-06-12 at 11.37.01 AM.jpeg)
-
-
 
 **Instagram : [@vinaychumble0055](https://www.instagram.com/vinaychumble0055) ,** [**@rpm15**-](https://www.instagram.com/rpm15_)
 
