@@ -21,8 +21,6 @@ thumbnail: /assets/WhatsApp Image 2020-06-12 at 11.13.19 AM.jpeg
 
 \- Owned - Mustang GT
 
-
-
 **What made you a petrolhead?**\
 \
 I like cars since my childhood, I had all the good cars at my home. Back in the day when Fiat, Mercedes w115, w123, w124 all the best cars of those time where at home. So cars always fascinated me right from the childhood. 
@@ -38,6 +36,8 @@ Figures of-course, looks can be changed any time.\
 \
 It feels great, you are talk on the town, everybody whats to take pictures. Boys and girls following me every time i take the car out till me office and home, take videos. I get to see my car on Youtube, just a search on Youtube "Mustang Nashik" and you get videos with thousands of views. It's fun. Whenever i'm driving the car on the road I get calls say " I heard your car pass by! " Initially when i use to drive the BMW, people use to see the car and call me. Now they hear the car and call me! Other then that there are school kids who are waiting for me in there windows to see the car because when ever i go to the office i pass, i have a specific time. So there are boys who waiting for 15-20 mins just to see the car.
 
+
+
 ![](/assets/66137901_2308214522591819_4768150008328689040_n.jpg)
 
 \
@@ -47,7 +47,6 @@ Average Person, Average Car. Maruti Van. If i had an option between my Mustang a
 
 ![](/assets/WhatsApp Image 2020-06-10 at 9.20.15 PM.jpeg)
 
-\
 \
 **What do you think about EVs?**\
 \
@@ -118,10 +117,8 @@ Then found this old engine lying in the corner, so i decided to get it restored,
 \
 **Lastly what's you message to the younger generation?**\
 \
-Study Hard , Prepare for life, you have to have not 1 or 2 but minimum 4 degrees, 2-3 diplomas, you study, you should know what the world wants from you, then only you can make them work for yourself. If you take my example, I've done B-com and what i'm doing is an engineering job. I have 3 post graduation degrees, if i wouldn't have done that, then i might not be able to cope up. HR taught how to get work done from people, Marketing taught me how to sell anything, managing money from my finance degree. It took 5 years for me to complete my post graduation with 3 degree then i did detailed diploma is LAW and taxation and ADSE (Advance diploma in software engineering). So I always tell everyone to complete there education first, after that you have you entire life to buy cars.
+Study Hard , Prepare for life, you have to have not 1 or 2 but minimum 4 degrees, 2-3 diplomas, you should know what the world wants from you, then only you can make them work for yourself. If you take my example, I've done B-com and what i'm doing is an engineering job. I have 3 post graduation degrees, if i wouldn't have done that, then i might not be able to cope up. HR taught how to get work done from people, Marketing taught me how to sell anything and managing money from my finance degree. It took 5 years for me to complete my post graduation with 3 degree then i did detailed diploma is LAW and taxation and ADSE (Advance diploma in software engineering). So I always tell everyone to complete there education first, after that you have you entire life to buy cars.
 
-
-
-**Instagram : [@vinaychumble0055](https://www.instagram.com/vinaychumble0055) , [@rpmtalks](https://www.instagram.com/rpmtalks)**
+**Instagram : [@vinaychumble0055](https://www.instagram.com/vinaychumble0055) ,** [**@rpm15**-](https://www.instagram.com/rpm15_)
 
 <!--EndFragment-->
