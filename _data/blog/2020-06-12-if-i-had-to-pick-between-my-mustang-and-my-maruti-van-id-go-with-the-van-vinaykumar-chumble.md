@@ -27,7 +27,7 @@ thumbnail: /assets/WhatsApp Image 2020-06-12 at 11.13.19 AM.jpeg
 \
 I like cars since my childhood, I had all the good cars at my home. Back in the day when Fiat, Mercedes w115, w123, w124 all the best cars of those time where at home. So cars always fascinated me right from the childhood. 
 
-![](/assets/WhatsApp Image 2020-06-12 at 10.43.47 AM (6).jpeg)
+![](/assets/123.jpeg)
 
 \
 **What is more important to you in a car? Figures or Looks?**\
@@ -37,8 +37,6 @@ Figures of-course, looks can be changed any time.\
 **How is it like to live with a Mustang in Nashik?**\
 \
 It feels great, you are talk on the town, everybody whats to take pictures. Boys and girls following me every time i take the car out till me office and home, take videos. I get to see my car on Youtube, just a search on Youtube "Mustang Nashik" and you get videos with thousands of views. It's fun. Whenever i'm driving the car on the road I get calls say " I heard your car pass by! " Initially when i use to drive the BMW, people use to see the car and call me. Now they hear the car and call me! Other then that there are school kids who are waiting for me in there windows to see the car because when ever i go to the office i pass, i have a specific time. So there are boys who waiting for 15-20 mins just to see the car.
-
-
 
 ![](/assets/66137901_2308214522591819_4768150008328689040_n.jpg)
 
@@ -84,9 +82,9 @@ and Many more...
 
 ![](/assets/WhatsApp Image 2020-06-12 at 10.57.13 AM.jpeg)
 
-![](/assets/WhatsApp Image 2020-06-12 at 10.43.47 AM (5).jpeg)
+![](/assets/WhatsApp Image 2020-06-10 at 9.21.19 PM.jpeg)
 
-![](/assets/WhatsApp Image 2020-06-12 at 10.43.47 AM (1).jpeg)
+![](/assets/WhatsApp Image 2020-06-10 at 9.10.54 PM.jpeg)
 
 ![](/assets/WhatsApp Image 2020-06-10 at 9.40.37 PM.jpeg)
 
@@ -107,7 +105,7 @@ Buying a new car you certainly loss lot of money. Buying a used car is again an 
 \
 If it's about a sportscar then a new one is always better, because there are tons of electronics in the car, and you know electronic cars don't last long. The collection of cars that i have are all mechanical cars, so have got good live. But since the last 20 years the automobile industry is behind electronic cars and they want to scrap the car in 15 years. So buying an electronic car new is always better because you have the warranty.
 
-![](/assets/WhatsApp Image 2020-06-12 at 10.43.47 AM (4).jpeg)
+![](/assets/111.jpeg)
 
 \
 **What's your love for Maruti Van?**\
