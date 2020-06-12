@@ -36,7 +36,7 @@ Figures of-course, looks can be changed any time.\
 \
 **How is it like to live with a Mustang in Nashik?**\
 \
-It feels great, you are talk on the town, everybody whats to take pictures. Boys and girls following me every time i take the car out till me office and home, take videos. I get to see my car on Youtube, just a search on Youtube "Mustang Nashik" and you get videos with thousands of views. It's fun. Whenever i'm driving the car on the road I get calls say " I heard your car pass by! " Initially when i use to drive the BMW, people use to see the car and call me. Now they hear the car and call me! Other then that there are school kids who are waiting for me in there windows to see the car because when ever i go to the office i pass, i have a specific time. So there are boys who waiting for 15-20 mins just to see the car.
+It feels great, you are talk of the town, everybody whats to take pictures. Boys and girls are following me every time i take the car out till me office and home, take videos. I get to see my car on Youtube, just a search on Youtube "Mustang Nashik" and you get videos with thousands of views. Whenever i'm driving the car on the road I get calls saying " I heard your car pass by! " Initially when i use to drive the BMW, people use to see the car and call me. Now they hear the car and call me! Other then that there are school kids who are waiting for me in there windows to see the car because when ever i go to the office i pass, i have a specific time. So there are boys who waiting for 15-20 mins just to see the car, It's fun.
 
 ![](/assets/66137901_2308214522591819_4768150008328689040_n.jpg)
 
@@ -62,7 +62,7 @@ Ahh Difficult question yr. We are Petrolheads, I'd rather not answer it.\
 \
 **What's your personal favorite automotive memory?**\
 \
-I had a good time when i was driving the Dodge Charger from Orlando to Tampa Bay that probably one of the best time of my life. It was sunny in the morning and it was a convertible car, so the roof was down and it started raining and the weather just changed so i had put the roof back up and rain was equally fun. So I had the right car with the right weather. Also in the nights at the traffic signal you can go fast, so i used to try to stand first in the row, so whenever i have green signal i can push it hard. Had Fun.\
+I had a good time when i was driving the Dodge Charger from Orlando to Tampa Bay that probably one of the best time of my life. It was sunny in the morning and it was a convertible car, so the roof was down and it started raining and the weather just changed so i had put the roof back up and rain was equally fun. So I had the right car with the right weather. Also in the nights at the traffic signal you can go fast, so i used to try to stand first in the row, so whenever i have green signal i can push it hard. \
 \
 **Who's your hero/Idol in the automotive world?**\
 \
@@ -110,7 +110,7 @@ If it's about a sportscar then a new one is always better, because there are ton
 \
 **What's your love for Maruti Van?**\
 \
-That car was my father's brand new car, I have seen India in it. I learnt my driving on that car. Then this was not in use for 5-8 years. I was just sitting in a corner, and i found the engine. My father had actually replaced the engine when the car had done 5,50,500 KMs. He had replaced the new Maruti Omni 800 engine in it, so that the van can drive more. It clocked about 2,75,000 KMs on the new engine.
+That car was my father's brand new car, I have seen India in it. I learnt my driving on that car. Then this was not in use for 5-8 years. I was just sitting in a corner, and i found the engine. My father had actually replaced the engine when the car had done 5,50,500 KMs. He had replaced the new Maruti Omni engine in it, so that the van can drive more. It clocked about 2,75,000 KMs on the new engine.
 
 Then found this old engine lying in the corner, so i decided to get it restored, "The Japanese Engine" Then removed the Indian engine and put the new restored Japanese engine in it, had to import some part form japan. So i have lots of emotion and memories. I park in next to my bedroom window so whenever i wake up in the night i get to see it late in the night.
 
