@@ -102,7 +102,7 @@ Range Rover Vogue LWB\
 \
 **What’s your preference? Used car or new car? Reason?**\
 \
-Buying a new car you certainly loss lot of money. Buying a used car is again an hassle because buying it in India you can tamper it with anything.\
+Buying a new car you certainly lose lot of money. Buying a used car is again a hassle because buying it in India you can tamper it with anything.\
 \
 If it's about a sportscar then a new one is always better, because there are tons of electronics in the car, and you know electronic cars don't last long. The collection of cars that i have are all mechanical cars, so have got good live. But since the last 20 years the automobile industry is behind electronic cars and they want to scrap the car in 15 years. So buying an electronic car new is always better because you have the warranty.
 
