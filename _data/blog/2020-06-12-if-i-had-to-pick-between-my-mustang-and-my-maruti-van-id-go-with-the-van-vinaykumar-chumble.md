@@ -106,14 +106,14 @@ Buying a new car you certainly loss lot of money. Buying a used car is again an 
 \
 If it's about a sportscar then a new one is always better, because there are tons of electronics in the car, and you know electronic cars don't last long. The collection of cars that i have are all mechanical cars, so have got good live. But since the last 20 years the automobile industry is behind electronic cars and they want to scrap the car in 15 years. So buying an electronic car new is always better because you have the warranty.
 
-![](/assets/111.jpeg)
-
 \
 **What's your love for Maruti Van?**\
 \
-That car was my father's brand new car, I have seen India in it. I learnt my driving on that car. Then this was not in use for 5-8 years. I was just sitting in a corner, and i found the engine. My father had actually replaced the engine when the car had done 5,50,500 KMs. He had replaced the new Maruti Omni engine in it, so that the van can drive more. It clocked about 2,75,000 KMs on the new engine.
+That car was my father's brand new car, I have seen India in it. I learnt my driving on that car. Then this was not in use for 5-8 years. It was just sitting in a corner, and i found the engine. My father had actually replaced the engine when the car had done 5,50,500 KMs. He had replaced the new Maruti Omni engine in it, so that the van can drive more. It clocked about 2,75,000 KMs on the new engine.
 
 Then found this old engine lying in the corner, so i decided to get it restored, "The Japanese Engine" Then removed the Indian engine and put the new restored Japanese engine in it, had to import some part form japan. So i have lots of emotion and memories. I park in next to my bedroom window so whenever i wake up in the night i get to see it late in the night.
+
+![](/assets/111.jpeg)
 
 \
 **Lastly what's you message to the younger generation?**\
