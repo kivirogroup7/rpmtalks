@@ -61,7 +61,7 @@ Ahh Difficult question yr. We are Petrolheads, I'd rather not answer it.\
 \
 **What's your personal favorite automotive memory?**\
 \
-I had a good time when i was driving the Dodge Charger from Orlando to Tampa Bay that probably one of the best time of my life. It was sunny in the morning and it was a convertible car, so the roof was down and it started raining and the weather just changed so i had put the roof back up and rain was equally fun. So I had the right car with the right weather. Also in the nights at the traffic signal you can go fast, so i used to try to stand first in the row, so whenever i have green signal i can push it hard. \
+I had a good time when i was driving the Dodge Charger from Orlando to Tampa Bay, that probably one of the best time of my life. It was sunny in the morning and it was a convertible car, so the roof was down and it started raining and the weather just changed so i had put the roof back up and rain was equally fun. So I had the right car with the right weather. Also in the nights at the traffic signal you can go fast, so i used to try to stand first in the row, so whenever i have green signal i can push it hard. \
 \
 **Who's your hero/Idol in the automotive world?**\
 \
