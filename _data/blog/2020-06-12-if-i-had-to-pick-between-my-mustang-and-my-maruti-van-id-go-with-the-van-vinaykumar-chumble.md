@@ -13,6 +13,8 @@ thumbnail: /assets/WhatsApp Image 2020-06-12 at 11.13.19 AM.jpeg
 ---
 <!--StartFragment-->
 
+![](/assets/WhatsApp Image 2020-06-12 at 11.13.19 AM.jpeg)
+
 **First Sports Car you have Seen? Driven? Owned?**
 
 \- Seen - Ferrari F50
