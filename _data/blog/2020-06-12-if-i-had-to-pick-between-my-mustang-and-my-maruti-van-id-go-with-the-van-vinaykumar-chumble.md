@@ -5,13 +5,12 @@ date: 2020-06-12T04:21:06.996Z
 title: >-
   If I had to pick between my Mustang and my Maruti van, I'd go with the van -
   Vinaykumar Chumble
-metaDescription: >-
-  Here's a short interview with Mr. Vinaykumar Chumble, Popularly known in
-  Nashik for buying first cars. He has collection of 22 cars and 137 motorcycles
-  from all the classics to the newer generation cars. 
+metaDescription: ''
 thumbnail: /assets/WhatsApp Image 2020-06-12 at 11.13.19 AM.jpeg
 ---
 <!--StartFragment-->
+
+*Here's a short interview with Mr. Vinaykumar Chumble, Popularly known in Nashik for buying first cars. He has collection of 22 cars and 137 motorcycles from all the classics to the newer generation cars.* 
 
 ![](/assets/WhatsApp Image 2020-06-12 at 11.13.19 AM.jpeg)
 
@@ -86,13 +85,15 @@ and Many more...
 
 ![](/assets/WhatsApp Image 2020-06-10 at 9.10.54 PM.jpeg)
 
-![](/assets/WhatsApp Image 2020-06-10 at 9.40.37 PM.jpeg)
+![](/assets/WhatsApp Image 2020-06-12 at 10.43.47 AM (5).jpeg)
 
 ![](/assets/DSC_3737.jpg)
 
 ![](/assets/65424645_2465116646889374_7638811371796809133_n.jpg)
 
 ![](/assets/WhatsApp Image 2020-06-12 at 10.43.47 AM.jpeg)
+
+![](/assets/13597629_304140976592205_1032771940_n.jpg)
 
 \
 **What you’re adding next in your garage?**\
