@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /2021-Porsche-Cayenne-2021-GTS
+path: /2021-Porsche-Cayenne-GTS
 date: 2020-06-15T05:57:58.434Z
 title: '2021 Porsche Cayenne GTS; Sporty, also Lofty?'
 thumbnail: /assets/porsche-cayenne-gts-2021-OEM-01.png
