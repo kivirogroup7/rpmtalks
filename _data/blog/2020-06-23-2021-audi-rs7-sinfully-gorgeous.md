@@ -43,8 +43,6 @@ The monstrous 4.0 liter twin-turbocharged V8 with a little aid from the 48 Volt 
 
 ![](/assets/2020-audi-rs7-sportback (8).jpg)
 
-
-
 The RS7 definitely lives up to it's tagline: 
 
 Business in the front, party in the back!
