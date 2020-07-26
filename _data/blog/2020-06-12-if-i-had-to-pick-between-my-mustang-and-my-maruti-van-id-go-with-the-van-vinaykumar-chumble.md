@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /vinaychumble
+path: /marutivan
 date: 2020-06-12T04:21:06.996Z
 title: >-
   If I had to pick between my Mustang and my Maruti van, I'd go with the van -
