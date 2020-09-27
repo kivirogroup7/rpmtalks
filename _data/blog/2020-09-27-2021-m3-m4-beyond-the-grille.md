@@ -44,9 +44,7 @@ It goes without saying that we expect both cars to feature the latest technology
 
 ![](/assets/2021-bmw-m4-interior.jpg)
 
-![](/assets/2021-bmw-m4-interior (1).jpg)
-
-
+![](/assets/2021-bmw-m4-steering-wheel.jpg)
 
 ### ***Performance***
 
@@ -56,17 +54,13 @@ The super controversial grilles encapsulate an absolute beast of a power unit. T
 
 ![](/assets/2021-bmw-m4-exterior.jpg)
 
-![](/assets/2021-bmw-m4-interior (2).jpg)
-
-![](/assets/2021-bmw-m4-interior (3).jpg)
-
-
+![](/assets/2021-bmw-m4-shifter.jpg)
 
 ### ***Verdict***
 
 The Grilles... Let's talk about them. From the starting of writing this article to writing this sentence, the Grilles have definitely grown on us. Sure, they might not be to everyone's taste, but they grow on you surely. Now, Beyond The Grilles;\
 The G80, G82 series M-Twins strike a remarkable balance between plush and performance. The sheer comfort, features and the refined drive paired with the monstrous engines, bold styling elements and exhaust systems. This car will definitely turn heads pulling up on the streets. A perfect alternative to the M2 Competition for people with slightly higher storage/seating needs while still satiating petrolhead needs.
 
-![](/assets/2021-bmw-m3-exterior (1).jpg)
+![](/assets/2021-bmw-m3-m4-lineup.jpg)
 
-![](/assets/2021-bmw-m3-exterior (2).jpg)
+![](/assets/2021-bmw-m3-m4-rear-lineup.jpg)
