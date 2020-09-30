@@ -15,7 +15,7 @@ We, the RPM15 Family, realized that this Covid-19 outbreak has affected everyone
 
 The fact that there are settlements that have incurred damages that may be well beyond their ability to recover from on their own affected us deeply. While expressing gratitude for having whatever we have now, the realization that others don't have what they NEED hit us in the feels and had an unsettling effect on us.
 
-**"someone, somewhere out there, is praying to have what you already have"**
+**"*someone, somewhere out there, is praying to have what you already have"***
 
 In the wake of this realization, RPM15 organized and held a Charity Drive. The motive was to get monetary help or as many basic necessities (ration, medicines, sanitary pads, clothes, woolens etc,) gathered from people/organizations. I find myself at a surprising lack of words to describe the sheer effort and speed with which this was carried out and the gratitude and ultimate satisfaction that was felt in this entire process. 
 
