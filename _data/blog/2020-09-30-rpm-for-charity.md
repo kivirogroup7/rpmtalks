@@ -5,7 +5,7 @@ date: 2020-09-30T14:29:03.068Z
 title: RPM for Charity
 metaDescription: |+
 
-thumbnail: /assets/WhatsApp Image 2020-09-30 at 9.50.01 PM (2).jpeg
+thumbnail: /assets/IMG_2180.jpg
 ---
 ###### *Article By: [Arnav Kulkarni](https://www.instagram.com/scarecrow_9595/)*
 
