@@ -19,7 +19,7 @@ The fact that there are settlements that have incurred damages that may be well 
 
 In the wake of this realization, RPM15 organized and held a Charity Drive. The motive was to get monetary help or as many basic necessities (ration, medicines, sanitary pads, clothes, woolens etc,) gathered from people/organizations. I find myself at a surprising lack of words to describe the sheer effort and speed with which this was carried out and the gratitude and ultimate satisfaction that was felt in this entire process. 
 
-![](/assets/WhatsApp Image 2020-09-30 at 9.50.01 PM (1).jpeg)
+![](/assets/img.jpeg)
 
 The team came up with posts, directives, payment methods, requirement charts and made it viral within an evening with payments and transfers coming in instantly. We also set up drop points and collecting services for people who wished to donate non-monetary items and/or were unable to leave their homes. The team then sat down and started working of the logistics, the number of people going to the location and the schedule so as to stay in the highest safety levels possible from Covid-19 and do the donations in the most efficient way possible.
 
