@@ -21,9 +21,7 @@ In the wake of this realization, RPM15 organized and held a Charity Drive. The m
 
 ![](/assets/WhatsApp Image 2020-09-30 at 9.50.01 PM (1).jpeg)
 
-
-The team came up with posts, directives, payment methods, requirement charts and made it viral within an evening with payments and transfers coming in instantly.
-We also set up drop points and collecting services for people who wished to donate non-monetary items and/or were unable to leave their homes. The team then sat down and started working of the logistics, the number of people going to the location and the schedule so as to stay in the highest safety levels possible from Covid-19 and do the donations in the most efficient way possible.
+The team came up with posts, directives, payment methods, requirement charts and made it viral within an evening with payments and transfers coming in instantly. We also set up drop points and collecting services for people who wished to donate non-monetary items and/or were unable to leave their homes. The team then sat down and started working of the logistics, the number of people going to the location and the schedule so as to stay in the highest safety levels possible from Covid-19 and do the donations in the most efficient way possible.
 
 ![](/assets/IMG-20200913-WA0008.jpg)
 
@@ -41,7 +39,7 @@ The experience of donating the food items, clothings, seeing their faces light u
 
 ![](/assets/IMG-20200915-WA0051.jpg)
 
-![](/assets/IMG_0833.JPG)
+![]()
 
 ![](/assets/IMG-20200915-WA0050.jpg)
 
@@ -65,10 +63,6 @@ To celebrate this feat accomplished by the team, a celebratory drive to Starbuck
 
 I (Arnav) too, as a member of RPM15 as well, am beaming with pride to be a part of a community that works towards changes like these and I would like everyone reading this, to appreciate the efforts taken by the team mentioned above  and the rest of the members that helped make this possible. A truly great idea and a perfectly executed gesture. We hope to continue to do so, and keep the less fortunate in our prayers always. Looking forward to your support for next time!
 
-
-
 *Special thanks to [Formula 1 Zone Pvt. Ltd](https://www.instagram.com/formula.1.zone/) & [Fins Aquarium and Pets](https://www.instagram.com/fins_aquarium_and_pets/)* 
-
-
 
 **Stay Grateful, Stay Safe.**
