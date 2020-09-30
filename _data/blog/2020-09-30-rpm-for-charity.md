@@ -5,7 +5,7 @@ date: 2020-09-30T14:29:03.068Z
 title: RPM for Charity
 metaDescription: |
   Article By: Arnav Kulkarni
-thumbnail: /assets/IMG_2180__1601482308_123.201.194.53.jpg
+thumbnail: /assets/rpm logo editable-01.png
 ---
 *Article By: Arnav Kulkarni*
 
