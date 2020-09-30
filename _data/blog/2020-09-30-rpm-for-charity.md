@@ -39,8 +39,6 @@ The experience of donating the food items, clothings, seeing their faces light u
 
 ![](/assets/IMG-20200915-WA0051.jpg)
 
-![]()
-
 ![](/assets/IMG-20200915-WA0050.jpg)
 
 ![](/assets/WhatsApp Image 2020-09-30 at 9.50.00 PM.jpeg)
