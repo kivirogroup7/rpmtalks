@@ -7,7 +7,7 @@ metaDescription: |+
 
 thumbnail: /assets/WhatsApp Image 2020-09-30 at 9.50.01 PM (2).jpeg
 ---
-###### *Article By: Arnav Kulkarni*
+###### *Article By: [Arnav Kulkarni](https://www.instagram.com/scarecrow_9595/)*
 
 This one... Is a little different, a little special. I request you to read this completely. 
 
