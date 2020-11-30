@@ -3,7 +3,7 @@ template: BlogPost
 path: /YZP-Ferrari-488-Pista-Spider
 date: 2020-11-30T13:11:14.944Z
 title: Poonawalla's Pista Pedestal
-thumbnail: /assets/IMG_4976.JPG
+thumbnail: /assets/IMG_5191.jpg
 ---
 ###### Article By: [Arnav Kulkarni](https://www.instagram.com/scarecrow_9595/)\
 
@@ -17,7 +17,7 @@ Let's find out about the 2 absolute best. \
 
 ### Yohan 'YZP' Poonawalla
 
-![](/assets/IMG_5172.jpg)
+![]()
 
 Yohan Poonawalla is the Managing Director at the leading Poonawalla Engineering Groups (Intervalve Poonawalla Ltd, El-O- Matic India Pvt Ltd), the Chairman of Poonawalla Financials Pvt Ltd. and Director of the globally accredited Poonawalla Stud Farms, Poonawalla Racing & Breeding. An affluent business magnate, Mr. Poonawalla also has a ravishing passion for automobiles.\
 The infamous YZP emblem boasts one of the largest, most expensive automotive collections in the country!\
