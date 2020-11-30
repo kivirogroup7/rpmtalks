@@ -15,12 +15,10 @@ Let's find out about the 2 absolute best. \
 
 ### Yohan 'YZP' Poonawalla
 
-![](/assets/IMG_4976.JPG)
+![](/assets/yohan.jpg)
 
 Yohan Poonawalla is the Managing Director at the leading Poonawalla Engineering Groups (Intervalve Poonawalla Ltd, El-O- Matic India Pvt Ltd), the Chairman of Poonawalla Financials Pvt Ltd. and Director of the globally accredited Poonawalla Stud Farms, Poonawalla Racing & Breeding. An affluent business magnate, Mr. Poonawalla also has a ravishing passion for automobiles.\
 The infamous YZP emblem boasts one of the largest, most expensive automotive collections in the country!
-
-![](/assets/IMG_5172_photo-full.jpg)
 
 \
 But today we’ll be looking at one specific beast from his ginormous collection.
