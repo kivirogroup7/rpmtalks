@@ -7,7 +7,7 @@ thumbnail: /assets/IMG_5191.jpg
 ---
 ###### Article By: [Arnav Kulkarni](https://www.instagram.com/scarecrow_9595/)\
 
-📷 Credits: [Vedant Bapat](https://www.instagram.com/vedantbapat/), [Arnav Kulkarni](https://www.instagram.com/scarecrow_9595/)
+###### 📷 Credits: [Vedant Bapat](https://www.instagram.com/vedantbapat/), [Arnav Kulkarni](https://www.instagram.com/scarecrow_9595/)
 
 **[Yohan 'YZP' Poonawalla](https://www.instagram.com/yohanpoonawalla/)**, the name strikes a bell doesn't it?\
 If you're a petrolhead (which I'm guessing you are if you are reading this), you must have obviously heard of the infamous YZP emblem on one of the largest automobile collections in the country!\
