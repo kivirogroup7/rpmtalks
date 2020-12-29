@@ -10,10 +10,10 @@ thumbnail: /assets/IMG_5191.jpg
 ###### 📷 Credits: [Vedant Bapat](https://www.instagram.com/vedantbapat/), [Arnav Kulkarni](https://www.instagram.com/scarecrow_9595/)
 
 **[Yohan 'YZP' Poonawalla](https://www.instagram.com/yohanpoonawalla/)**, the name strikes a bell doesn't it?\
-If you're a petrolhead (which I'm guessing you are if you are reading this), you must have obviously heard of the infamous YZP emblem on one of the largest automobile collections in the country!\
-Ferrari, a name that is almost synonymous with the concept of racing, speed and victory...\
-Let's find out about the 2 absolute best. \
-**RPMStyle😏**
+If you're a petrolhead (which I'm sure you are, if you're reading this), you must have obviously heard of the infamous YZP emblem on one of the largest automobile collections in the country!\
+and of course, Ferrari, a name that is almost synonymous with the concept of racing, speed and victory.\
+How about the element when you combine these 2?\
+Let's find out RPMStyle!
 
 ### Yohan 'YZP' Poonawalla
 
@@ -30,27 +30,30 @@ But today we’ll be looking at one specific beast from his ginormous collection
 The perfect blend of open-topped back road cruising and wild, mind-numbing track lapping comes straight from the bowels of Ferrari in Modena, Italy.\
 The 488 Pista Spider is an even more exclusive version of the already limited 488 Pista.
 
-This particular Pista Spider is the first in the country and proudly calls the YZP garage its home. (check this fact please)
+This particular Pista Spider is the first in the country and proudly calls the YZP garage its home.
 
 But before we have a deeper-dive;\
-The heartiest congratulations to Mr. Poonawalla from RPMTalks! We wish you the safest and the most joyous driving pleasures!
+\
+**The heartiest congratulations to Mr. Poonawalla from RPMTalks! We wish you the safest and the most joyous driving pleasures!**
 
-Now, let’s have a look at the Ferrari 488 Pista Spider, and the YZP-Spec.
+Now, let’s have a look at the Ferrari 488 Pista Spider, in the YZP-Spec.
 
 ### *Exterior:*
 
 ![](/assets/IMG_1402.JPG)
 
 It’s a Ferrari…\
-Jaw-dropping curves, extravagant proportions and head-turning accents. The car is tastefully designed to catch eyes anywhere it goes. The low-slung, wide chassis serves both, aesthetic and aerodynamic purposes. This is one of those cars that immediately scream presence.\
+Jaw-dropping curves, extravagant proportions and head-turning accents are a given. The car is tastefully designed to catch eyes anywhere it goes. The low-slung, wide chassis serves both, aesthetic and aerodynamic purposes. This is one of those cars that immediately scream presence.\
 The muscular shoulder lines flow from the A-pillar all the way beyond the wheel arches. The fantastically placed exhausts look and sound like nothing else.\
 The rear-end looks aggressive and dominating to assert dominance as it passes you by.\
 \
 But that’s the standard Pista Spider…\
-The YZP-Spec is elevated to another level with a Carbon-Fibre pack, Yellow brake calipers and looks gorgeous encased in the infamous Rosso-Corsa Red. The car has the ‘P’ insignia on the B-Pillar to symbolize the Poonawalla family heritage and a ‘1’ on the doors for always being Numero-Uno. All these are one-off and cannot be found as original fitments anywhere else in the world!\
+\
+The YZP-Spec is elevated to another level with the Carbon-Fibre pack, Yellow brake calipers and gorgeously encased in the infamous Rosso-Corsa Red. The car has the ‘P’ insignia on the B-Pillar to symbolize the Poonawalla family heritage and a ‘1’ on the doors for always being Numero-Uno. All these are one-off and cannot be found as original fitments anywhere else in the world!\
 \
 There’s not much to say about how a Ferrari looks, is there?\
-How about some pictures instead:
+\
+Here's some pictures instead:
 
 ![](/assets/IMG_1414.JPG)
 
@@ -64,12 +67,16 @@ Fun Fact: This is one of the only street-legal Ferraris to get the original Ital
 
 ![](/assets/IMG_5076.JPG)
 
+
+
 ![](/assets/IMG_5080.jpg)
 
 ![](/assets/IMG_5079.jpg)
 
 Can’t take your eyes off, can you?\
 Go on, take another peek, we’ll wait
+
+
 
 Now that you’re done gawking at the exterior, let’s move to the insides of the\
 YZPista-Spider.
@@ -80,13 +87,13 @@ From a bare track-biased car, you’d expect a sub-par, stripped-down interior r
 Wrong!
 
 The seats are comfortable, stylish and bolster you in place firmly when you decide to throw this car around the curves. The seats too, have the one-off Italian Flag stitching going all the way through.\
-The steering, also with the stitching, is girthy and grippy to hold. The road feedback through the wheels is phenomenal and the car points exactly where it wants to go. The steering resembles a Formula 1 steering with all the buttons, switches and gauges.\
+The steering, also with the stitching, is girthy and grippy to hold. The road feedback through the wheels is phenomenal and the steering feels very planted and direct, the car points exactly where it wants to go. The steering resembles a Formula 1 steering with all the buttons, switches and gauges to provide a more immersive driving experience and more control over the car from within a fingers reach.\
 \
 The gauge cluster has an analogue RPM-meter and a digital driver’s display. The cockpit of the 488 Pista Spider is very driver-centric. No surprises there…
 
-But I’m sure not many people have the chance to nit-pick at the interiors when your face is at the back of your head from the insane accelarations.
+But I’m sure not many people would have the chance to nit-pick at the interiors when their face is at the back of their head from the insane accelaration when you floor it.
 
-But enough talking, we’ll let you have a look for yourselves
+But enough talking, we’ll let you have a look at the interiors for yourselves
 
 ![](/assets/IMG_5086.jpg)
 
@@ -104,11 +111,11 @@ Before we head on to the performance aspect of the Pista, there’s another cool
 
 The Key and the Key Box!\
 \
-The key is encased in an elegant wooden box along with a scale-model of the 488 Pista Spider.
+The key is encased in an elegant wooden box along with a scale-model of the 488 Pista Spider. Ferrari goes that one extra step to show their customers just how much this brand-customer synergy means to them and to add a little pizzazz and glamour because, why not?
 
 ![](/assets/IMG_5230.jpg)
 
-Now that we have everything else sorted…\
+Now that we have everything else covered…\
 Let’s get down to the most important part of the 488 Pista Spider.
 
 ***Performace***
