@@ -27,7 +27,7 @@ But today we’ll be looking at one specific beast from his ginormous collection
 
 ![](/assets/IMG_1406.JPG)
 
-The perfect blend of open-topped back road cruising and wild, mind-numbing track lapping comes straight from the bowels of Ferrari in Modena, Italy.\
+The perfect blend of open-topped back road cruising and wild, mind-numbing track lapping comes straight from the heart of Ferrari in Modena, Italy.\
 The 488 Pista Spider is an even more exclusive version of the already limited 488 Pista.
 
 This particular Pista Spider is the first in the country and proudly calls the YZP garage its home.
