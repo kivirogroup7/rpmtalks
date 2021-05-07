@@ -25,10 +25,21 @@ export default ({ children }) => {
       </header>
       {children}
       <footer className="site-footer">
-     <p>Instagram - <a href="https://www.instagram.com/rpmtalks">@rpmtalks. </a>
-             Twitter - <a href="https://twitter.com/rpmtalks">@rpmtalks. </a>
-    Youtube - <a href="https://www.youtube.com/channel/UCa3Mb1QdTlOfbPi7KtvG_YQ">@rpmtalks. </a>
-Podcast - <a href="https://anchor.fm/rpmtalks">@rpmtalks</a>. </p>
+     <p>// Let's Connect
+If you're the Instagram type,
+<a href="https://www.instagram.com/rpmtalks">@rpmtalks. </a>
+
+If you're the Twitter type,
+<a href="https://twitter.com/rpmtalks">@rpmtalks. </a>
+
+If you're the Youtube type,
+ <a href="https://www.youtube.com/channel/UCa3Mb1QdTlOfbPi7KtvG_YQ">@rpmtalks. </a>
+    
+If you're the Podcast type,
+ <a href="https://anchor.fm/rpmtalks">@rpmtalks</a>
+    
+If you're the Tiktok type
+bhai banhogya reels banao ab. </p>
 
     
 
