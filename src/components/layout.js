@@ -26,16 +26,16 @@ export default ({ children }) => {
       {children}
       <footer className="site-footer">
      <p> // Let's Connect // </p>
-<p>If you're the Instagram type,
+<p>If you're the Instagram type - 
 <a href="https://www.instagram.com/rpmtalks">@rpmtalks. </a> </p>
 
-<p>If you're the Twitter type,
+<p>If you're the Twitter type - 
 <a href="https://twitter.com/rpmtalks">@rpmtalks. </a></p>
 
-<p>If you're the Youtube type,
+<p>If you're the Youtube type - 
  <a href="https://www.youtube.com/channel/UCa3Mb1QdTlOfbPi7KtvG_YQ">@rpmtalks. </a></p>
     
-<p>If you're the Podcast type,
+<p>If you're the Podcast type - 
  <a href="https://anchor.fm/rpmtalks">@rpmtalks</a></p>
     
 
