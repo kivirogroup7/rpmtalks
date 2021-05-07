@@ -34,20 +34,6 @@ module.exports = {
       },
     },
     {
-    resolve: "gatsby-transformer-remark",
-    options: {
-      plugins: [
-      {
-        resolve: "gatsby-remark-spotify",
-        options: {
-          width: 800,
-          height: 400, 
-        }
-      }
-      ]
-    }
-  },
-    {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         // The property ID; the tracking code won't be generated without it. replace with yours
