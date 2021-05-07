@@ -26,7 +26,9 @@ export default ({ children }) => {
       {children}
       <footer className="site-footer">
      <p>Instagram - <a href="https://www.instagram.com/rpmtalks">@rpmtalks</a></p>
-        <p>&copy; {new Date().getFullYear()} RPMTALKS &bull; Designed & Developed with <span role="img" aria-label="love">❤️</span> by <a href="https://www.instagram.com/thevedantsuryawanshi/">Vedant Suryawanshi</a></p>
+         <p>Podcast - <a href="https://anchor.fm/rpmtalks">@rpmtalks</a></p>
+
+        <p>&copy; {new Date().getFullYear()} RPMTALKS &bull;</p>
        
       </footer>
     </div>
