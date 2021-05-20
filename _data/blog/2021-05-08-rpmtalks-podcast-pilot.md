@@ -5,9 +5,7 @@ date: 2021-05-08T12:19:30.614Z
 title: RPMTalks Podcast Pilot
 thumbnail: /assets/RPMTALKS PODCAST.png
 ---
-###### Ft. [Arnav Kulkarni](https://www.instagram.com/scarecrow_9595/), [Omkar Rane](https://www.instagram.com/interceptor12/) (Founder & CTO at [D&O Motorsports](https://www.instagram.com/d.o.motorsports/)). Edited by [Vedant Suryawanshi](https://www.instagram.com/thevedantsuryawanshi/)
-
-### [Listen to the Podcast!](https://anchor.fm/rpmtalks) 
+###### Ft. [Arnav Kulkarni](https://www.instagram.com/scarecrow_9595/), [Omkar Rane](https://www.instagram.com/interceptor12/) (Founder & CTO at [D&O Motorsports](https://www.instagram.com/d.o.motorsports/)). [Listen to the Podcast!](https://anchor.fm/rpmtalks)
 
 ### [Watch The Podcast!](https://youtu.be/TJOmFvMfJgo)
 
