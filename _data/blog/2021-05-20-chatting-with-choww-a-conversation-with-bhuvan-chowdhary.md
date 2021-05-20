@@ -5,7 +5,7 @@ date: 2021-05-20T13:34:40.156Z
 title: 'Chatting With Choww, (a conversation with Bhuvan Chowdhary)'
 thumbnail: /assets/RPMTALKS PODCAST (1).png
 ---
-Ft. [Arnav Kulkarni](https://www.instagram.com/scarecrow_9595/), [B.choww](https://www.instagram.com/b.choww/)
+###### Ft. [Arnav Kulkarni](https://www.instagram.com/scarecrow_9595/), [B.Choww](https://www.instagram.com/b.choww/) Edited By: [Vedant Suryawanshi](https://www.instagram.com/thevedantsuryawanshi/)
 
 To listen to the podcast, [Click Here](https://anchor.fm/rpmtalks/episodes/02--Bhuvan-Chowdhary-aka-b-chow--First-bike--Drift-School--F1-Car--and-much-more-e10kuo4)!\
 \
