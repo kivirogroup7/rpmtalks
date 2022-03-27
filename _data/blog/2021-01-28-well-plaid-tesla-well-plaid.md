@@ -12,8 +12,6 @@ Let's find out if it lives up the the hype\
 Who am I kidding, it most definitely does! But let's go over it all and find out just how much has Mr. Musk gotten his team to squeeze in the latest flagship.\
 Oh and of course, as always, RPMStyle!
 
-
-
 ### *General Exterior*
 
 ![](/assets/2021 Tesla Model S Front.png)
@@ -100,8 +98,6 @@ This picks up noise from outside the car and plays an inverse frequency inside t
 
 Excellent excuse for when you forget to "accidentally" bring back home milk when your wife shouts it out the driveway to you.
 
-
-
 With the Audio-Video features aside, let's have a look at what else the interiors have to offer.
 
 ![](/assets/2021 Tesla Model S Interior spec list.png)
@@ -132,8 +128,6 @@ I like how you can buy groceries, transport your kids + their friends, and gap a
 
 ![](/assets/2021 Tesla Model S Performance Sheet.png)
 
-
-
 All this would be pretty undermined if you had to charge your car every 200 miles, right? (I'm looking at you Taycan)\
 Tesla decided to give you **520+ miles** of range! (**836 km)**\
 You can go all the way from New York to Canada in one charge and still have about 20% of your range left.
@@ -146,13 +140,9 @@ Not with a Tesla, not in the USA.\
 Boasting the largest electric charging network in the world, Tesla is already eons ahead of it's competitors in terms of charging networks.\
 It's really hard to go wrong with a Tesla if you're looking at electric cars.
 
-
-
 Despite performance and amenities that no other car can match, Tesla still wasn't satisfied and added additional quirks and features
 
 ### *Quirks and Features*
-
-
 
 ![](/assets/2021 Tesla Model S App.png)
 
@@ -173,14 +163,13 @@ Seems super handy for trips downtown or showing off to the valet.
 Smart Summon lets you 'summon' the vehicle to you from wherever it's parked.\
 Now this only works until a certain distance, but is useful nonetheless in tricky parking situations, laziness or just to look extra cool at your office or random places. The summoning happens via the Tesla App mentioned above.
 
-
-
 Whew!\
 That was overwhelming.\
 Tesla has managed to outdo themselves in almost every way and have provided consumers with a very lucrative deal.\
 I, personally, am having a very hard time convincing myself not to pre-book it already
 
 ### \
+
 Verdict
 
 Taycan, who?\
