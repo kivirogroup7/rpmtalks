@@ -10,7 +10,7 @@ thumbnail: /assets/WhatsApp Image 2020-06-12 at 11.13.19 AM.jpeg
 ---
 <!--StartFragment-->
 
-*Here's a short interview with Mr. Vinaykumar Chumble, Popularly known in Nashik for buying first cars. He has collection of 22 cars and 137 motorcycles from all the classics to the newer generation cars.* 
+*Here's a short interview with Mr. Vinaykumar Chumble, Popularly known in Nashik for buying first cars. He has collection of 22 cars and 137 motorcycles from all the classics to the newer generation cars.*
 
 ![](/assets/WhatsApp Image 2020-06-12 at 11.13.19 AM.jpeg)
 
@@ -111,23 +111,17 @@ If it's about a sportscar then a new one is always better, because there are ton
 \
 That car was my father's brand new car, I have seen India in it. I learnt my driving on that car. Then this was not in use for 5-8 years. It was just sitting in a corner, and i found the engine. My father had actually replaced the engine when the car had done 5,50,500 KMs. He had replaced the new Maruti Omni engine in it, so that the van can drive more. It clocked about 2,75,000 KMs on the new engine.
 
-
-
 ![](/assets/IMG_1738.jpg)
 
 Then found this old engine lying in the corner, so i decided to get it restored, "The Japanese Engine" Then removed the Indian engine and put the new restored Japanese engine in it, had to import some part form japan. So i have lots of emotion and memories. I park in next to my bedroom window so whenever i wake up in the night i get to see it.
 
 ![](/assets/DSC_3592.JPG)
 
-
-
 **Article from [Autocar India](https://www.autocarindia.com/car-news/classic-maruti-day-celebrates-35-years-of-maruti-suzuki-410842) :** <!--StartFragment-->
 
 *Vinay Kumar Ravindra Chumble had driven down his pristine 1985 Maruti Van from Nashik for the occasion. The van has been owned by his family since it was brand-new and has amassed over 7,86,000km on the clock, albeit with two engine changes. “This is a first lot car which my father bought on his birthday. He had only Rs 87,000 in his pocket and bought this car for Rs 86,000,” he told us. “I restored this car in 2010 with an original refurbished engine, which was imported from Japan. This particular model is called a Maruti 800 V – with the 'V' standing for 'van'. People call it an Omni but it’s not that; it’s a Maruti Van. I have tried to keep it as original as possible, over the years. I still have the original key and the owner’s manual from 1985.”*
 
 <!--EndFragment-->
-
-
 
 \
 **Lastly what's you message to the younger generation?**\
